@@ -13,7 +13,7 @@ Master the fundamentals and advanced features of the Go Programming Language (Go
 
 ![](./docs/certificate.jpeg)
 
-[Reference](https://mindex.udemy.com/course/go-the-complete-developers-guide/learn)
+[Reference](https://udemy.com/course/go-the-complete-developers-guide/learn)
 
 ## Sections
 
